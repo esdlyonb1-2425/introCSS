@@ -1,0 +1,26 @@
+.rouge{
+    color:red;
+}
+.verte{
+    background-color: green
+}
+#jeanMichel{
+    text-decoration: underline
+}
+
+.laBoite{
+    background-color: blue
+}
+
+.pascal{
+    background-color: yellow;
+    height: 250px;
+    width: 250px;
+    background-color: red;
+    border-radius: 50%;
+    transition: height 1s ease;
+}
+.pascal:hover{
+    background-color: green;
+    height: 500px
+}
